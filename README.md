@@ -10,29 +10,6 @@
 - 📝 Flash messages for errors/success updates
 - 📂 Organized project structure (Flask MVC style)
 
-📂 Project Structure
-my_flask_project/
-│── app.py # Main Flask app
-│── setup_database.py # Initializes database tables
-│── requirements.txt # Dependencies
-│── site.db # SQLite database (auto-created)
-│
-├── templates/ # HTML templates (Jinja2)
-│ ├── index.html
-│ ├── register.html
-│ ├── login.html
-│ ├── forgot_password.html
-│ ├── user_profile.html
-│ ├── user_interests.html
-│ ├── career.html
-│ └── career11.html
-│
-├── static/ # CSS, JS, images
-│
-├── instance/ # Instance folder (auto-created by Flask for DB)
-├── pycache/ # Auto-generated cache files
-└── venv/ # Virtual environment (ignored in GitHub)
-
 ⚙️ Setup Instructions
 
 1️⃣ Clone the repository
